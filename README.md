@@ -1,6 +1,4 @@
 # CodeWars
-Completed CodeWars Challenges
+A few CodeWars Challenges solutions
 
-I enjoy completing CodeWars challenges to keep my skills sharp. These are the solutions to my successfully completed katas.
-
-Currently I am honing my JavaScript skills.
+All codes in JavaScript.
